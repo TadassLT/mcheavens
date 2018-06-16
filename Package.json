@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "McHeaven.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node McHeaven.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
